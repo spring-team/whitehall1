@@ -1,3 +1,5 @@
+// You are the delta in what you do, not the things you did in the past
+
 package atomist;
 
 import org.springframework.boot.SpringApplication;
